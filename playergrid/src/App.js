@@ -1,12 +1,13 @@
 
-//import React, { useState } from "react";
 import React, { useState } from 'react';
 import "./App.css";
+import playerImgDown from './images/red1.png'
+// import playerImgUp from './images/red2.png'
+// import playerImgSide from './images/red3.png'
 
 export default function App() {
   return (
     <div>
-
       <section>
         <PlayerGrid />
       </section>
